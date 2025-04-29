@@ -10,7 +10,7 @@ Abstract—Tokenization is an influential part of the Transformer model. Breakin
 - **`combined_tokenization_approaches.ipynb`**  
   A Jupyter notebook that explores and compares different tokenization approaches.
 
-- **`inference.py`**  
+- **`summarization_inference.py`**  
   A Python script for running inference using the updated, trained model and trained tokenizers.
 
 - **`trained_tokenizers/`**  
